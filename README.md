@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shubhamjangid532
-- 👀 I’m interested in Machine Learning, DevOps and Cloud computing.
-- 🌱 I’m currently learning Machine Learning, DevOps and cloud conputing.
+- 👀 I’m interested in Software Development, DevOps and Cloud computing.
+- 🌱 I’m currently learning Backend development using Django, DevOps and cloud computing.
 - 💞️ I’m looking to collaborate on DevOps, Django, and cloud computing
 - 📫 How to reach me 
 - E-mail:- shubhamjangid532@gmail.com
